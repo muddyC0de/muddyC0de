@@ -4,7 +4,9 @@ Hi 👋 My name is Vlad
 Frontend Developer
 ------------------
 
-Frontend developer with 1 year experience. My main expertise lies in developing dynamic and responsive web applications using technologies like React, Redux Toolkit, Next.js, and TypeScript. I enjoy working on building user-friendly interfaces, optimizing frontend performance, and integrating APIs to create seamless user experiences. I am particularly passionate about leveraging the power of modern JavaScript frameworks and libraries to deliver high-quality, maintainable code.
+As a Frontend Developer with 1 year of experience in React, Next.js, Redux Toolkit, and TypeScript, I excel in creating dynamic web applications with user-friendly interfaces and seamless user experiences.I am particularly passionate about leveraging the power of modern JavaScript frameworks and libraries to deliver high-quality, maintainable code.
+
+I possess strong problem-solving skills, and am committed to continuous learning and professional development to deliver high-quality code.
 
 * 🌍  I'm based in Ukraine
 * 🖥️  See my portfolio at [Portfolio](http://muddyc0de.github.io/portfolio)
