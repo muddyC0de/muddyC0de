@@ -10,7 +10,7 @@ I possess strong problem-solving skills, and am committed to continuous learning
 
 * 🌍  I'm based in Ukraine
 * 🖥️  See my portfolio at [Portfolio](http://muddyc0de.github.io/portfolio)
-* ✉️  You can contact me at [vladlubchenko0@gmail.com](mailto:vladlubchenko0@gmail.com) or [Telegram](https://t.me/gryazyyy)
+* ✉️  You can contact me at [vladlubchenko0@gmail.com](mailto:vladliubchenko.dev@gmail.com) or [Telegram](https://t.me/gryazyyy)
 * 🧠  I'm learning NextJS
 
 ### Skills
