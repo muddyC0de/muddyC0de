@@ -9,7 +9,7 @@ As a Frontend Developer with 1 year of experience in React, Next.js, Redux Toolk
 I possess strong problem-solving skills, and am committed to continuous learning and professional development to deliver high-quality code.
 
 * 🌍  I'm based in Ukraine
-* 🖥️  See my portfolio at [Portfolio](http://muddyc0de.github.io/portfolio)
+* 🖥️  See my portfolio at [Portfolio]([https://next-portfolio-beta-blush.vercel.app/])
 * ✉️  You can contact me at [vladliubchenko.dev@gmail.com](mailto:vladliubchenko.dev@gmail.com) or [Telegram](https://t.me/gryazyyy)
 * 🧠  I'm learning NextJS
 
